@@ -47,7 +47,8 @@ h1 {
 h2 {
   font-family: LeagueGothic, Tahoma, Geneva, sans-serif;
   padding: 7px 0 0 0;
-  margin: 0; }
+  margin: 0;  
+}
 
 /* HEADER */
 body > header {
@@ -100,6 +101,7 @@ body > header {
   text-transform: lowercase;
   background-image: none;
   font-size: 16px;
+  font-weight: 120
   letter-spacing: 2px;
   text-align: center;
   text-shadow: none;
